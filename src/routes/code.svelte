@@ -40,7 +40,7 @@
   </code>
 </pre>
 <svelte:head>
-  <title>ElectroBlocks - Code</title>
+  <title>Ablox - Code</title>
 </svelte:head>
 
 <style>
