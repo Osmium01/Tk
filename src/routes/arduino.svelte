@@ -13,7 +13,7 @@
   </div>
 </VerticalComponentContainer>
 <svelte:head>
-  <title>ElectroBlocks - Arduino</title>
+  <title>Ablox - Arduino</title>
 </svelte:head>
 
 <style>
