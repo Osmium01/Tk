@@ -168,7 +168,7 @@
 </main>
 
 <svelte:head>
-  <title>ElectroBlocks - Project Settings</title>
+  <title>Ablox - Project Settings</title>
 </svelte:head>
 
 <style>
