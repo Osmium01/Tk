@@ -46,7 +46,7 @@ Blockly.defineBlocksWithJsonArray([
     inputsInline: false,
     previousStatement: null,
     nextStatement: null,
-    colour: colour_theme.components,
+    colour: COLOR_THEME.COMPONENTS,
     tooltip: "",
     helpUrl: "",
   },
