@@ -13,7 +13,7 @@
   </div>
 </VerticalComponentContainer>
 <svelte:head>
-  <title>ElectroBlocks</title>
+  <title>Ablox</title>
 </svelte:head>
 
 <style>
