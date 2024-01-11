@@ -1,6 +1,6 @@
 export enum COLOR_THEME {
   SENSOR = '#505bda',
-  ARDUINO_START_BLOCK = '#b063c5',
+  ARDUINO_START_BLOCK = '#EC6391',
   COMPONENTS = '#FAE95A',
   ARDUINO = '#b063c5',
   DATA = '#ffaac3',
