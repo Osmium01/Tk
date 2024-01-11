@@ -54,7 +54,7 @@
     reader.onload = function (evt) {
       if (evt.target.readyState != 2) return;
       if (evt.target.error) {
-        onErrorMessage('Please upload a valid electroblock file.', e);
+        onErrorMessage('Please upload a valid ablox file.', e);
         return;
       }
 
@@ -180,7 +180,7 @@
   {/if}
 </main>
 <svelte:head>
-  <title>ElectroBlocks - Open Projects</title>
+  <title>Ablox - Open Projects</title>
 </svelte:head>
 
 <style>
