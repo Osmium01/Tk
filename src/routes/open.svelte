@@ -180,7 +180,7 @@
   {/if}
 </main>
 <svelte:head>
-  <title>Ablox - Open Projects</title>
+  <title>A-BLox - Open Projects</title>
 </svelte:head>
 
 <style>
