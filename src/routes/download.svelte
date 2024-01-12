@@ -53,7 +53,7 @@
   </div>
 </main>
 <svelte:head>
-  <title>ElectroBlocks - Download</title>
+  <title>A-BLox - Download</title>
 </svelte:head>
 
 <style>
