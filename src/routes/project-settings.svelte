@@ -168,7 +168,7 @@
 </main>
 
 <svelte:head>
-  <title>Ablox - Project Settings</title>
+  <title>A-BLox - Project Settings</title>
 </svelte:head>
 
 <style>
