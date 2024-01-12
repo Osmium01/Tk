@@ -1,6 +1,6 @@
 import { COLOR_THEME } from "../../core/blockly/constants/colors";
 
-export default `<category colour="${COLOR_THEME.COMPONENTS}" name="LCD Screen">
+export default `<category colour="${COLOR_THEME.COMPONENTS}" name="LCD">
    <block type="lcd_setup">
     <comment pinned="false" h="240" w="460">This block sets up the LCD screen.
 
