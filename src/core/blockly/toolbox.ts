@@ -114,7 +114,7 @@ const defaultToolbox: ToolBoxEntries[] = [
     category: ToolBoxCategory.COMPONENT,
     name: 'Add-ons',
     toolBoxEntries: [
-      { name: 'Bluetooth', xml: bluetoothXMLString },
+      { name: 'A-Bluetooth', xml: bluetoothXMLString },
       { name: 'Digital Display', xml: digitalDisplayXMLString },
       { name: 'FastLED', xml: fastLEDXMLString },
       { name: 'LCD Screen', xml: lcdScreenXMLString },
