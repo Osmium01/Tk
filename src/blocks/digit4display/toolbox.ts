@@ -1,6 +1,6 @@
 import { COLOR_THEME } from "../../core/blockly/constants/colors";
 
-export default `<category name="Digit Display" colour="${COLOR_THEME.COMPONENTS}">
+export default `<category name="7 Segment Display" colour="${COLOR_THEME.COMPONENTS}">
        <block type="digital_display_setup">
             <comment pinned="false" h="150" w="460">Digit display will display number and letters.  Because there a only 7 led lines some characters might be limited</comment>
            <field name="CLK_PIN">10</field>
