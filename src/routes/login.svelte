@@ -11,7 +11,7 @@
   google.
 </p>
 <svelte:head>
-  <title>Ablox - Login</title>
+  <title>A-BLox - Login</title>
 </svelte:head>
 
 <style>
