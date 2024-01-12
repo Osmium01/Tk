@@ -118,7 +118,7 @@ const defaultToolbox: ToolBoxEntries[] = [
     category: ToolBoxCategory.COMPONENT,
     name: 'Abl-gear',
     toolBoxEntries: [
-      { name: 'ABluetooth', xml: bluetoothXMLString },
+      { name: 'Bluetooth', xml: bluetoothXMLString },
       { name: 'Digital Display', xml: digitalDisplayXMLString },
       { name: 'FastLED', xml: fastLEDXMLString },
       { name: 'LCD Screen', xml: lcdScreenXMLString },
@@ -127,7 +127,6 @@ const defaultToolbox: ToolBoxEntries[] = [
       { name: 'Motor', xml: motorXMLString },
       //   { name: "Neo Pixel", xml: neoPixelXMLString },
       { name: 'Passive Buzzer', xml: passiveBuzzerXMLString },
-      { name: 'Input Pins', xml: writePinXMLString },
       { name: 'RBG Led', xml: rgbLedXMLString },
       { name: 'Servos', xml: servoXMLString },
       { name: 'Stepper Motors', xml: stepperMotorXMLString },
