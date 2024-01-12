@@ -136,14 +136,17 @@ const defaultToolbox: ToolBoxEntries[] = [
     category: ToolBoxCategory.SENSORS,
     name: 'Mechanzo Inputs',
     toolBoxEntries: [
-      { name: 'Input Pins', xml: writePinXMLString },
-      { name: 'Button', xml: buttonXMLString },
       { name: 'IR Remote', xml: irRmoteXMLString },
       { name: 'JoyStick', xml: joystickXMLString },
-      { name: 'Motion Sensor', xml: ultraSonicXMLString },
+      { name: 'Input Pins', xml: writePinXMLString },
       { name: 'RFID', xml: rfidXMLString },
       { name: 'Temperature', xml: temperatureXMLString },
       { name: 'Thermistor', xml: thermistorXMLString },
+      { name: 'Button', xml: buttonXMLString },
+      { name: 'Motion Sensor', xml: ultraSonicXMLString },
+      
+      
+      
     ],
   },
 ];
