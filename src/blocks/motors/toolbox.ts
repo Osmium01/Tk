@@ -1,7 +1,7 @@
 import { COLOR_THEME } from "../../core/blockly/constants/colors";
 
 export default `
-<category name="Motor" colour="${COLOR_THEME.COMPONENTS}">
+<category name="DC Motor" colour="${COLOR_THEME.COMPONENTS}">
    <block type="move_motor">
     <comment pinned="false" h="220" w="460">The motor number is on your motor shield.  The speed determines how much electricity will flow through your motor.  Depending on how big your motor is will decide on your actual speed.
     
