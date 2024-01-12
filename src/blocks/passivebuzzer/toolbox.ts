@@ -1,7 +1,7 @@
 import { COLOR_THEME } from "../../core/blockly/constants/colors";
 
 export default `
-<category name="Passive Buzzer" colour="${COLOR_THEME.COMPONENTS}" >
+<category name="Buzzer" colour="${COLOR_THEME.COMPONENTS}" >
        
        <block type="passive_buzzer_tone">
        <value name="TONE">
