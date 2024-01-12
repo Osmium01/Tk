@@ -107,6 +107,10 @@ const defaultToolbox: ToolBoxEntries[] = [
         name: 'Time',
         xml: timeXMLString,
       },
+      {
+        name: 'Input Pins',
+        xml: writePinXMLString,
+      },
     ],
   },
   {
