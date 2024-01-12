@@ -123,7 +123,7 @@ const defaultToolbox: ToolBoxEntries[] = [
       { name: 'Motor', xml: motorXMLString },
       //   { name: "Neo Pixel", xml: neoPixelXMLString },
       { name: 'Passive Buzzer', xml: passiveBuzzerXMLString },
-      { name: 'Pins', xml: writePinXMLString },
+      { name: 'Input Pins', xml: writePinXMLString },
       { name: 'RBG Led', xml: rgbLedXMLString },
       { name: 'Servos', xml: servoXMLString },
       { name: 'Stepper Motors', xml: stepperMotorXMLString },
