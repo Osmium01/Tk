@@ -1,5 +1,5 @@
 <h1>Index</h1>
 
 <svelte:head>
-  <title>Ablox - Blocks Page</title>
+  <title>A-BLox - Blocks Page</title>
 </svelte:head>
