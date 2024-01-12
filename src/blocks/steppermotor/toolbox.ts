@@ -1,7 +1,7 @@
 import { COLOR_THEME } from "../../core/blockly/constants/colors";
 
 export default `
-<category name="Stepper Motors" colour="${COLOR_THEME.COMPONENTS}" >
+<category name="Stepper Motor" colour="${COLOR_THEME.COMPONENTS}" >
        
        <block type="stepper_motor_setup">
              <field name="PIN_1">11</field>
