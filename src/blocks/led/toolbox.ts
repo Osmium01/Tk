@@ -3,7 +3,7 @@ import { whatIsAPin } from "../comment-text";
 
 export const LED_COMMENT = `Turn on or off the led attached to the pin in the dropdown box.${whatIsAPin}`;
 
-export default `<category name="Led" colour="${COLOR_THEME.COMPONENTS}">
+export default `<category name="LED" colour="${COLOR_THEME.COMPONENTS}">
    <block type="led">
     <comment pinned="false" h="145" w="460" >${LED_COMMENT}</comment>
    </block>
