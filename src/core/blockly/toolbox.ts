@@ -112,7 +112,7 @@ const defaultToolbox: ToolBoxEntries[] = [
   {
     color: COLOR_THEME.COMPONENTS,
     category: ToolBoxCategory.COMPONENT,
-    name: 'Add-ons',
+    name: 'Ablox',
     toolBoxEntries: [
       { name: 'A-Bluetooth', xml: bluetoothXMLString },
       { name: 'Digital Display', xml: digitalDisplayXMLString },
