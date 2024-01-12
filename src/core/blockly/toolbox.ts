@@ -113,8 +113,10 @@ const defaultToolbox: ToolBoxEntries[] = [
   {
     color: COLOR_THEME.COMPONENTS,
     category: ToolBoxCategory.COMPONENT,
-    name: 'Mechanzo Inputs',
+    name: 'Mechanzo Outputs',
     toolBoxEntries: [
+      { name: 'Analog', xml: analogSensorXMLString },
+      { name: 'Digital Sensor', xml: digitalSensorXMLString },
       { name: 'Bluetooth', xml: bluetoothXMLString },
       { name: 'Digital Display', xml: digitalDisplayXMLString },
       { name: 'FastLED', xml: fastLEDXMLString },
@@ -136,10 +138,9 @@ const defaultToolbox: ToolBoxEntries[] = [
   {
     color: COLOR_THEME.SENSOR,
     category: ToolBoxCategory.SENSORS,
-    name: 'Mechanzo Outputs',
+    name: 'Mechanzo Inputs',
     toolBoxEntries: [
-      { name: 'Analog', xml: analogSensorXMLString },
-      { name: 'Digital Sensor', xml: digitalSensorXMLString },
+      { name: 'Input Pins', xml: writePinXMLString },
       { name: 'Button', xml: buttonXMLString },
       { name: 'IR Remote', xml: irRmoteXMLString },
       { name: 'JoyStick', xml: joystickXMLString },
