@@ -11,7 +11,7 @@
   google.
 </p>
 <svelte:head>
-  <title>ElectroBlocks - Login</title>
+  <title>Ablox - Login</title>
 </svelte:head>
 
 <style>
