@@ -1,7 +1,7 @@
 import { COLOR_THEME } from "../../core/blockly/constants/colors";
 import { virtualCircuitComment, whatIsAPin } from "../comment-text";
 
-export default `<category name="Button" colour="${COLOR_THEME.SENSOR}">       
+export default `<category name="Touch-Button" colour="${COLOR_THEME.SENSOR}">       
 <block type="button_setup">
       <comment pinned="false" h="200" w="460">This block (Bluetooth setup block) tells the Arduino we are using Bluetooth devices.${whatIsAPin}${virtualCircuitComment}</comment>
 </block>
