@@ -1,6 +1,6 @@
 import { COLOR_THEME } from "../../core/blockly/constants/colors";
 
-export default `<category colour="${COLOR_THEME.COMPONENTS}" name="Led Matrix">
+export default `<category colour="${COLOR_THEME.COMPONENTS}" name="LED Matrix">
      <block type="led_matrix_setup">
     <comment pinned="false" h="60" w="460">This block sets up the let matrix.</comment>
                            <field name="PIN_DATA">10</field>
