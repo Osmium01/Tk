@@ -40,7 +40,7 @@
   </code>
 </pre>
 <svelte:head>
-  <title>A-BLox - Code</title>
+  <title>Thinkersklub - Code</title>
 </svelte:head>
 
 <style>
