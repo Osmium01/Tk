@@ -180,7 +180,7 @@
   {/if}
 </main>
 <svelte:head>
-  <title>A-BLox - Open Projects</title>
+  <title>Thinkersklub - Open Projects</title>
 </svelte:head>
 
 <style>
