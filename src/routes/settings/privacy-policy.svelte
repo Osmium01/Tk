@@ -1,13 +1,13 @@
 <svelte:head>
-  <title>ElectroBlocks - Privacy Policy</title>
+  <title>Thinkersklub - Privacy Policy</title>
 </svelte:head>
 
 <div class="row">
   <div class="col">
-    <h1>Privacy Policy for ElectroBlocks</h1>
+    <h1>Privacy Policy for Thinkersklub</h1>
 
     <p>
-      At ElectroBlocks, accessible from https://electroblocks.org, one of our
+      At Thinkersklub, accessible from https://thinkersklub.in, one of our
       main priorities is the privacy of our visitors. This Privacy Policy
       document contains types of information that is collected and recorded by
       ElectroBlocks and how we use it.
@@ -81,7 +81,7 @@
     <h2>Log Files</h2>
 
     <p>
-      ElectroBlocks follows a standard procedure of using log files. These files
+      Thinkersklub follows a standard procedure of using log files. These files
       log visitors when they visit websites. All hosting companies do this and a
       part of hosting services' analytics. The information collected by log
       files include internet protocol (IP) addresses, browser type, Internet
@@ -95,7 +95,7 @@
     <h2>Cookies and Web Beacons</h2>
 
     <p>
-      Like any other website, ElectroBlocks uses 'cookies'. These cookies are
+      Like any other website, Thinkersklub uses 'cookies'. These cookies are
       used to store information including visitors' preferences, and the pages
       on the website that the visitor accessed or visited. The information is
       used to optimize the users' experience by customizing our web page content
@@ -126,14 +126,14 @@
     </p>
 
     <p>
-      Note that ElectroBlocks has no access to or control over these cookies
+      Note that Thinkersklub has no access to or control over these cookies
       that are used by third-party advertisers.
     </p>
 
     <h2>Third Party Privacy Policies</h2>
 
     <p>
-      ElectroBlocks's Privacy Policy does not apply to other advertisers or
+      Thinkersklub's Privacy Policy does not apply to other advertisers or
       websites. Thus, we are advising you to consult the respective Privacy
       Policies of these third-party ad servers for more detailed information. It
       may include their practices and instructions about how to opt-out of
@@ -216,7 +216,7 @@
     </p>
 
     <p>
-      ElectroBlocks does not knowingly collect any Personal Identifiable
+      Thinkersklub does not knowingly collect any Personal Identifiable
       Information from children under the age of 13. If you think that your
       child provided this kind of information on our website, we strongly
       encourage you to contact us immediately and we will do our best efforts to
