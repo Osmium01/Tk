@@ -117,10 +117,7 @@
 
 <nav class:small={!$authStore.isLoggedIn}>
   {#if $authStore.isLoggedIn}
-    <a href="/{params}" class:active={isPathOnHomePage($page.path)}>
-      <i class="fa fa-home" />
-    </a>
-
+    
     <a href="/{params}" class:active={isPathOnHomePage($page.path)}>
       <i class="fa fa-home" />
     </a>
