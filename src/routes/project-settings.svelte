@@ -168,7 +168,7 @@
 </main>
 
 <svelte:head>
-  <title>A-BLox - Project Settings</title>
+  <title>Thinkersklub - Project Settings</title>
 </svelte:head>
 
 <style>
