@@ -143,5 +143,5 @@
 <FlashMessage bind:show={showMessage} message="Successfully Save." />
 
 <svelte:head>
-  <title>Ablox - Virtual Circuit</title>
+  <title>Thinkersklub - Virtual Circuit</title>
 </svelte:head>
