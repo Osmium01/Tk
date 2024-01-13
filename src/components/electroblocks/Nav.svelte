@@ -121,6 +121,10 @@
       <i class="fa fa-home" />
     </a>
 
+    <a href="/{params}" class:active={isPathOnHomePage($page.path)}>
+      <i class="fa fa-home" />
+    </a>
+
     <a href="/code{params}" class:active={$page.path.includes('code')}>
       <i class="fa fa-code" />
     </a>
