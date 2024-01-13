@@ -11,7 +11,7 @@
   google.
 </p>
 <svelte:head>
-  <title>A-BLox - Login</title>
+  <title>Thinkersklub - Login</title>
 </svelte:head>
 
 <style>
