@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-  <title>ElectroBlocks - About</title>
+  <title>Thinkersklub - About</title>
 </svelte:head>
 
 {#if config.site === 'electroblocks-org'}
@@ -16,7 +16,7 @@
   <div class="row">
     <div class="col">
       <p>
-        ElectroBlocks is website for coding microcontrollers like the Arduino
+        Thinkersklub is website for coding microcontrollers like the Arduino
         Uno and Arduino Mega. The basic idea is video editting for code. It
         allows you to create code with an easy to use drag and drop language
         called Blockly. I wanted to create something easy to use and fun for
@@ -137,13 +137,13 @@
 {#if config.site === 'sfl-electroblocks-org'}
   <div class="row">
     <div class="col">
-      <h2>School Fab Labs & ElectroBlocks</h2>
+      <h2>Thinkersklub</h2>
     </div>
   </div>
   <div class="row">
     <div class="col">
       <p>
-        ElectroBlocks and School Fabs Labs have teamed up to build an drag and
+        Thinkersklub have teamed up to build an drag and
         drop Arduino Simulator. It's like video editing for code. You can even
         upload code directly from the website to the Arduino. It works with mac,
         pc, and chromebooks.
