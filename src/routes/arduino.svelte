@@ -13,7 +13,7 @@
   </div>
 </VerticalComponentContainer>
 <svelte:head>
-  <title>A-BLox - Arduino</title>
+  <title>Thinkersklub - Arduino</title>
 </svelte:head>
 
 <style>
