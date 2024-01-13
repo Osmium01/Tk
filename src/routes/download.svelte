@@ -53,7 +53,7 @@
   </div>
 </main>
 <svelte:head>
-  <title>A-BLox - Download</title>
+  <title>Thinkersklub - Download</title>
 </svelte:head>
 
 <style>
