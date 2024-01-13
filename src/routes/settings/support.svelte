@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>ElectroBlocks - Support</title>
+  <title>Thinkersklub - Support</title>
 </svelte:head>
 <div class="row">
   <div class="col">
