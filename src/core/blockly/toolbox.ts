@@ -113,7 +113,7 @@ const defaultToolbox: ToolBoxEntries[] = [
   {
     color: COLOR_THEME.COMPONENTS,
     category: ToolBoxCategory.COMPONENT,
-    name: 'Mechanzo Outputs',
+    name: 'Thinkersklub Outputs',
     toolBoxEntries: [
       { name: 'Digital Display', xml: digitalDisplayXMLString },
       { name: 'Analog', xml: analogSensorXMLString },
@@ -134,7 +134,7 @@ const defaultToolbox: ToolBoxEntries[] = [
   {
     color: COLOR_THEME.SENSOR,
     category: ToolBoxCategory.SENSORS,
-    name: 'Mechanzo Inputs',
+    name: 'Thinkersklub Inputs',
     toolBoxEntries: [
       { name: 'IR Remote', xml: irRmoteXMLString },
       { name: 'JoyStick', xml: joystickXMLString },
